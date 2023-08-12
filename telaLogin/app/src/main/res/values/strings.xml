@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">telaLogin</string>
+    <string name="txtLogin">Dados de Login</string>
+    <string name="txtInputNome">Digite o nome</string>
+    <string name="txtInputSenha">Senha</string>
+    <string name="txtTermos">Aceito os termos</string>
+    <string name="txtBtLogin">Entrar</string>
+</resources>
