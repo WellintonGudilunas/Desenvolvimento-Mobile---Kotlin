@@ -36,7 +36,7 @@
             android:layout_gravity="center"
             style="@style/Widget.AppCompat.ProgressBar.Horizontal"
             android:background="@drawable/gray_progressbar_background"
-            android:progressDrawable="@drawable/blue_progressbar_background"
+            android:progressDrawable="@drawable/purple_progressbar_background"
             >
         </ProgressBar>
 
@@ -52,16 +52,16 @@
                 android:text="@string/txt0"
                 android:textStyle="bold"
                 android:textSize="30sp"
-                android:textColor="@color/max_blue"
+                android:textColor="@color/max_purple"
                 android:gravity="center"/>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="sec time left"
+                android:text="sec restantes"
                 android:textSize="22sp"
                 android:gravity="center"
-                android:textColor="@color/max_blue"/>
+                android:textColor="@color/max_purple"/>
 
         </LinearLayout>
 

@@ -4,13 +4,12 @@
        <shape
            android:shape="ring"
            android:innerRadiusRatio="2.5"
-           android:thicknessRatio="30.0"
+           android:thicknessRatio="20.0"
            android:useLevel="true">
            <gradient
-               android:startColor="@color/max_blue"
-               android:centerColor="@color/teal_200"
-               android:endColor="@color/min_blue"
-
+               android:startColor="@color/max_purple"
+               android:centerColor="@color/mid_purple"
+               android:endColor="@color/min_purple"
                />
        </shape>
     </item>
